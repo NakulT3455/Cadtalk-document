@@ -1,0 +1,25 @@
+GIT BASICS TO ADVANCED
+
+
+1. git init : 
+    Git repository is not present. To initiliaze git repo.
+
+2. git add 
+    to add files to staging area.
+
+3. git commit -m "message"
+
+4. git log : 
+    gives commit history.
+
+5. git reset #commit_id
+    removes commits above comiit commit_id
+
+6. git restore:
+    restore deleted files.
+
+7. git stash:
+    Save local changes to back stage without any commit in the commit history and gives us clean tree. Can be retrieved back using git stash pop. 
+
+8. git stash clear:
+    It removes the changes from back-stage as well and everything in the stash is removed.
