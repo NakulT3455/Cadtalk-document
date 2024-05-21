@@ -1,1 +1,8 @@
-using namespace
+class Demo
+{
+public:
+	Demo()
+	{
+
+	}
+};
